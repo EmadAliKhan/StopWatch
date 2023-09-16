@@ -29,12 +29,10 @@ body{
     border-radius: 20px;
     overflow: hidden;
 }
-button{
-    margin-top: 20px;
-}
 .btn{
     background: none;
     border: none;
+    outline: none;
 }
 h1{
     display: inline;
